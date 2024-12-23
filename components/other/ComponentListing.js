@@ -36,7 +36,7 @@ const ComponentListing = ({ featured = 0 }) => {
     },
     {
       name: "signin",
-      count: 1,
+      count: 2,
       icon: "ri-login-box-line",
       featured: true,
     },
